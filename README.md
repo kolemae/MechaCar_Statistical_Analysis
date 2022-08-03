@@ -9,8 +9,8 @@ Using R to analyze data for AutosRUs' new prototype, MechaCar, and determine ins
 * [Study Design: MechaCar vs Competition](#study-design-mechacar-vs-competition)
 
 ### Resources
-Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
-Software: RStudio 2022.02.3
+- Data Source: MechaCar_mpg.csv, Suspension_Coil.csv
+- Software: RStudio 2022.02.3
 
 ## Linear Regression to Predict MPG
 Creating a linear regression shows us that:
